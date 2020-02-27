@@ -12,6 +12,9 @@ public class First_Class {
 	
 	public void get_sele(){
 		System.out.println("This is a demo Git 3");
+		System.out.println("This is a demo Git 4");
+		System.out.println("This is a demo Git 5");
+		System.out.println("This is a demo Git 6");
 	}
 
 }
