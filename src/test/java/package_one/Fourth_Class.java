@@ -14,5 +14,10 @@ public class Fourth_Class {
 		System.out.println("This is a Demo 1");
 		System.out.println("This is a Demo 2");
 	}
+	@Test
+	public void selenium6(){
+		System.out.println("This is a Demo 1");
+		System.out.println("This is a Demo 2");
+	}
 
 }
