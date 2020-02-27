@@ -16,5 +16,12 @@ public class First_Class {
 		System.out.println("This is a demo Git 5");
 		System.out.println("This is a demo Git 6");
 	}
+	@Test
+	public void selenium1(){
+		System.out.println("This is a Demo 1");
+		System.out.println("This is a Demo 2");
+		System.out.println("This is a Demo 2");
+		System.out.println("This is a Demo 2");
+	}
 
 }

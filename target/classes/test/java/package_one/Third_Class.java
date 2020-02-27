@@ -8,12 +8,18 @@ public class Third_Class {
 			System.out.println("This is Demo 1");
 			System.out.println("This is Demo 4");
 		}
-		
+		@Test
 		public void selenium_5(){
 			System.out.println("This is Demo 1");
 			System.out.println("This is Demo 4");
 			System.out.println("This is Demo 5");
 			System.out.println("This is Demo 6");
 			System.out.println("This is Demo 7");
+		}
+		@Test	
+		public void selenium_13(){
+			System.out.println("This is Demo 1");
+			System.out.println("This is Demo 4");
+			System.out.println("This is Demo 4");
 		}
 }
